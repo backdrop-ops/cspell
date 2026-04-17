@@ -465,6 +465,8 @@ onmediaerror
 onoff
 opensans
 Optionchecker
+optgroup
+optgroups
 otherjob
 othername
 otherval
