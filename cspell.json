@@ -38,6 +38,7 @@
   "globRoot": ".",
   "ignorePaths": [
     "*.dic",
-    "*.svg"
+    "*.svg",
+    "cspell.json"
   ]
 }
