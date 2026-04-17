@@ -39,6 +39,7 @@
   "ignorePaths": [
     "*.svg",
     "cspell.json",
-    "dictionary.txt"
+    "dictionary.txt",
+    "dist"
   ]
 }
