@@ -38,8 +38,10 @@
   "globRoot": ".",
   "ignorePaths": [
     "*.svg",
+    "build",
     "cspell.json",
     "dictionary.txt",
-    "dist"
+    "dist",
+    "node_modules"
   ]
 }
