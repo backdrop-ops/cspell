@@ -142,6 +142,7 @@ dblog
 DDTHH
 deconstructor
 defaultable
+defgroup
 deletedline
 delsp
 dependant
@@ -149,6 +150,7 @@ dependee
 dependees
 desaturate
 desaturated
+devel
 dialogclose
 dialogopen
 dialogsave
@@ -213,6 +215,7 @@ filefield
 filelisting
 filemime
 fileurl
+filetransfer
 filterlabel
 firstcolumn
 firstsegment
@@ -233,6 +236,7 @@ formfocusborder
 formtest
 fouc
 foundkeys
+Fozzie
 fourthcolumn
 français
 freso
@@ -243,8 +247,8 @@ ftid
 ftlabel
 fttype
 ftvid
+fulldate
 fullname
-fullName?
 funcs
 Furfero
 geary
@@ -325,7 +329,6 @@ linkname
 linknid
 linktitle
 linktype
-lised?
 lished
 litespeed
 localzone
@@ -341,7 +344,6 @@ lzma
 mainpage
 manytoone
 marzo
-master
 maxadjustment
 maxdate
 maximumred
@@ -457,7 +459,7 @@ ntfs
 ntrail
 numberedlist
 numer
-oauth?
+oauth
 oembed
 offsettopchange
 oldserver
@@ -506,6 +508,7 @@ prepopulate
 prepopulated
 prepopulates
 prepopulating
+presave
 prevdate
 prevdatealt
 prevfirst
@@ -579,10 +582,8 @@ simpletests
 sioc
 sito
 skipdots
-slave
 smacss
 smartmenus
-sn?
 someplugin
 sometable
 sourcedir
@@ -590,7 +591,6 @@ spacebar
 squaresmall
 srcset
 ssess
-stack overflow?
 stackoverflow
 statuscode
 stddev
@@ -630,6 +630,7 @@ superglobal
 supprimer
 sutro
 svgz
+tablealias
 tabledrag
 tabledragging
 tableheader
