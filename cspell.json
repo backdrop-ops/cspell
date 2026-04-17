@@ -4,7 +4,7 @@
   "dictionaryDefinitions": [
     {
       "name": "backdrop",
-      "path": "backdrop.dic"
+      "path": "dictionary.txt"
     }
   ],
   "dictionaries": [
@@ -37,8 +37,8 @@
   ],
   "globRoot": ".",
   "ignorePaths": [
-    "*.dic",
     "*.svg",
-    "cspell.json"
+    "cspell.json",
+    "dictionary.txt"
   ]
 }
