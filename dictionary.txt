@@ -343,6 +343,7 @@ marzo
 maxadjustment
 maxdate
 maximumred
+maynot
 mbytes
 mdhash
 mediumint
@@ -716,6 +717,7 @@ unmunging
 unnested
 unpackage
 unpermissioned
+unpromote
 unpromoted
 unpublishing
 unrendered
@@ -728,6 +730,7 @@ unset
 unsets
 unsetting
 unshortened
+unsticky
 upcasted
 upcasting
 updateprogress
