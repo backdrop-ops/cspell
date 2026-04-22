@@ -710,6 +710,7 @@ ungroupable
 unhighlight
 unhighlights
 unindexed
+uniquify
 unmousewheel
 unmunge
 unmunged
