@@ -580,6 +580,7 @@ sidebarborders
 simpletest
 simpletests
 sioc
+sitename
 sito
 skipdots
 smacss
