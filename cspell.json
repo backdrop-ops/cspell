@@ -42,6 +42,10 @@
     "dictionary.txt",
     "build/**",
     "dist/**",
+    "/core/includes/diff.inc",
+    "/core/includes/file.mimetypes.inc",
+    "/core/includes/standard.inc",
+    "/core/includes/transliteration/",
     "/core/misc/ckeditor/**",
     "/core/misc/html5.js",
     "/core/misc/jquery-4*.js",
@@ -52,6 +56,9 @@
     "/core/misc/opensans/",
     "/core/misc/smartmenus/",
     "/core/misc/ui/",
+    "/core/modules/search/tests/UnicodeTest.txt",
+    "/core/modules/system/system.tar.inc",
+    "/core/themes/bartik/color/preview.html",
     "/files/",
   ]
 }
