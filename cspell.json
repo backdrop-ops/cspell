@@ -35,7 +35,7 @@
     "whitelisted: allowed",
     "whitelisting: allowing"
   ],
-  "globRoot": ".",
+  "globRoot": "../",
   "ignorePaths": [
     "*.svg",
     "cspell.json",
@@ -49,9 +49,9 @@
     "/core/misc/jquery-html-prefilter*",
     "/core/misc/jquery.*.js",
     "/core/misc/jquery.js",
-    "/core/misc/opensans/**",
-    "/core/misc/smartmenus/**",
-    "/core/misc/ui/**",
+    "/core/misc/opensans/",
+    "/core/misc/smartmenus/",
+    "/core/misc/ui/",
     "/files/",
   ]
 }
