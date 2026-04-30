@@ -259,6 +259,7 @@ gname
 Gnomovision
 gripsmall
 groupable
+groupby
 groupinfo
 groupnames
 GSSNEGOTIATE
