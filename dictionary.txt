@@ -134,6 +134,7 @@ curstr
 Dairiki
 Damnum
 datafield
+datafilter
 datatypes
 datelimits
 datestamp
@@ -163,7 +164,9 @@ docroot
 docwilmot
 domdocument
 doubleclick
+downcasted
 downcasting
+downcastdispatcher
 dropbutton
 dropbuttons
 droppables
@@ -214,6 +217,7 @@ fileapi
 filefield
 filelisting
 filemime
+filerepository
 fileurl
 filetransfer
 filterlabel
@@ -322,6 +326,7 @@ lastsplit
 lified
 lighttpd
 linkification
+linkimageediting
 linkname
 linknid
 linktitle
@@ -582,6 +587,7 @@ shortlink
 sidebarborders
 simpletest
 simpletests
+simpleuploadadapter
 sioc
 sitename
 sito
