@@ -105,6 +105,8 @@ codefilter
 codesniffer
 colgroups
 colorindex
+colspan
+colspans
 columnname
 columnschange
 comida
