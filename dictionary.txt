@@ -212,6 +212,7 @@ fetchmode
 fieldable
 fieldapi
 fieldgroup
+fieldgroups
 fieldlabel
 fieldnames
 fieldsets
@@ -788,6 +789,7 @@ workkeys
 WQKCY
 WSOD
 vtab
+vtabs
 xbitmap
 xf
 xfffd
