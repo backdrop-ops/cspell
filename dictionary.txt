@@ -571,6 +571,7 @@ samedi
 sameorigin
 sandboxed
 savepoint
+savepoints
 schemaapi
 scorewords
 screenreader
