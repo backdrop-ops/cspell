@@ -570,6 +570,7 @@ rxhtml
 samedi
 sameorigin
 sandboxed
+savepoint
 schemaapi
 scorewords
 screenreader
