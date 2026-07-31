@@ -594,6 +594,7 @@ sidebarborders
 simpletest
 simpletests
 simpleuploadadapter
+singlebyte
 sioc
 sitename
 sito
