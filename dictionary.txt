@@ -160,6 +160,7 @@ dialogsave
 diffchange
 diffutils
 dimanche
+dismod
 dnumber
 docache
 docroot
@@ -591,6 +592,7 @@ seps
 sess
 shiftwidth
 shivammathur
+shogo
 shorterthan
 shortformat
 shortlink
