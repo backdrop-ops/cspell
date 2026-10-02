@@ -1,8 +1,8 @@
 abcdefghijklmnopqrstuvwx
 abiword
 acdb
+accum 
 activemenu
-accum
 addedline
 addtogroup
 admintheme
@@ -452,10 +452,10 @@ nolink
 nomask
 nongranularity
 nonmodal
-nosniff
 noparse
 norig
 noscheme
+nosniff
 nosuchcolumn
 nosuchindex
 nosuchscheme
