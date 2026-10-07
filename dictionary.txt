@@ -1,6 +1,7 @@
 abcdefghijklmnopqrstuvwx
 abiword
 acdb
+accum 
 activemenu
 addedline
 addtogroup
@@ -268,6 +269,7 @@ groupable
 groupby
 groupinfo
 groupnames
+groupwise
 GSSNEGOTIATE
 Hammertime
 Harnhammar
@@ -454,6 +456,7 @@ nonmodal
 noparse
 norig
 noscheme
+nosniff
 nosuchcolumn
 nosuchindex
 nosuchscheme
