@@ -282,6 +282,7 @@ hitem
 hmac
 hookname
 hovermenu
+hrefs
 htmlcorrector
 Htmlto
 httpauth
