@@ -657,6 +657,7 @@ superglobal
 supprimer
 sutro
 svgz
+Svibanj
 tablealias
 tabledrag
 tabledragging
@@ -677,6 +678,7 @@ tagwords
 targetdir
 tarname
 tascript
+Teletubbies
 tempstore
 testbot
 testconfig
